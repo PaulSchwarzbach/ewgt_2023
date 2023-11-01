@@ -3,7 +3,7 @@ Dataset for the Paper entitled "Simulation-based Evaluation and Integration of I
 
 # Descriptor
 
-The dataset consist of three .csv files containing the visibility analysis from ray launching, the anchor states and the results of the probabilistic range sampling. The file `visibility.csv` contain visibility states inside a grid with resolution of $\SI{10}{\centi \meter}$ of the two simulated heights in the cabin. The columns of the file include the following data:
+The dataset consist of three .csv files containing the visibility analysis from ray launching, the anchor states and the results of the probabilistic range sampling. The file `visibility.csv` contain visibility states inside a grid with resolution of 10cm of the two simulated heights in the cabin. The columns of the file include the following data:
 
     * `x`: position of the predicted grid cell in x.
     * `y`: position of the predicted grid cell in y.
